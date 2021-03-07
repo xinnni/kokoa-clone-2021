@@ -22,7 +22,7 @@
 body {
   font-family: "Open Sans", sans-serif;
   color: #2e363e;
-  height: 110vh;
+  height: 120vh;
 }
 .main-screen {
   padding: 0px var(--horizontal-space);
